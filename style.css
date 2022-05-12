@@ -1,0 +1,19 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    background-color: lavender;
+    display: inline-block;
+    float: right;
+}
+
+.content {
+    padding-top: 40px;
+    background-color:aquamarine;
+}
+
+#contact-form{
+    background-color: beige;
+    padding: 60px;
+    text-align: center;
+}
